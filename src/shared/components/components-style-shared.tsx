@@ -5,5 +5,5 @@ export const ContainerSeparatorVertical = styled.View`
 `
 
 export const ContainerSeparatorHorizontal = styled.View`
-  margin-rigth: ${({ distance })=> distance}px;
+  margin-right: ${({ distance })=> distance}px;
 `
