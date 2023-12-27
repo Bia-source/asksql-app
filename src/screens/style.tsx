@@ -47,5 +47,14 @@ export const TextButtonSubmit = styled.Text`
   margin-left: 3px;
 `
 
+export const InputSchema = styled.TextInput`
+width: 100%;
+height: 60px;
+border-radius: 10px;
+background-color: ${theme.blueberry[600]};
+text-align: start;
+padding: 0px;
+color: ${theme.snow};
+`;
 export const LogoImage = styled.Image``;
 export const Touchable = styled.TouchableOpacity``
